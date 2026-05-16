@@ -1,4 +1,4 @@
-﻿namespace OmniFlow.Domain.Entities
+﻿namespace OmniFlow.Domain.Entities;
 
 public abstract class BaseEntity
 {
