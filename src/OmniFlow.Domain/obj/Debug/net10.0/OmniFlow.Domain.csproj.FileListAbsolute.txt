@@ -1,0 +1,11 @@
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/bin/Debug/net10.0/OmniFlow.Domain.deps.json
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/bin/Debug/net10.0/OmniFlow.Domain.dll
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/bin/Debug/net10.0/OmniFlow.Domain.pdb
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/obj/Debug/net10.0/OmniFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/obj/Debug/net10.0/OmniFlow.Domain.AssemblyInfoInputs.cache
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/obj/Debug/net10.0/OmniFlow.Domain.AssemblyInfo.cs
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/obj/Debug/net10.0/OmniFlow.Domain.csproj.CoreCompileInputs.cache
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/obj/Debug/net10.0/OmniFlow.Domain.dll
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/obj/Debug/net10.0/refint/OmniFlow.Domain.dll
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/obj/Debug/net10.0/OmniFlow.Domain.pdb
+/home/kauan/projects/OmniFlow/src/OmniFlow.Domain/obj/Debug/net10.0/ref/OmniFlow.Domain.dll
